@@ -17,7 +17,7 @@ quality, here are the current standards and setup.
 
 * AT2020 USB Microphone
 * ScreenFlow
-* Sketch
+* Sketch (there is a [Sketch file](assets/Assets.sketch) in this repo that contains the assets we use)
 
 ### Environment Setup
 
