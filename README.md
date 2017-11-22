@@ -77,3 +77,12 @@ around to other running apps. Get on with it.
 
 Aim to keep it 2-5 minutes.  Better to have many short to the point videos, than
 a few monoliths.
+
+### Resources
+
+Some blog posts and videos on producing great screencasts:
+
+* [Recording a Great Coding Screencast](https://egghead.io/articles/recording-a-great-coding-screencast)
+* [Record Badadd Screencasts](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
+* [Creating a Screencast](https://www.youtube.com/watch?v=HJMEiyK7sEc) (video by Kent C. Dodds)
+
