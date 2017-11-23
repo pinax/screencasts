@@ -1,0 +1,55 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 36
+    ,
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderLineHighlight": "all",
+    "files.insertFinalNewline": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "editor.selectionHighlight": false,
+    "editor.scrollBeyondLastLine": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vs-seti",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80
+    ],
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.inlineValues": true,
+    "html.suggest.ionic": false,
+    "html.suggest.angular1": false,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "gulp.autoDetect": "off",
+    "python.venvPath": "~/.pyenv",
+    "python.autoComplete.addBrackets": true,
+    "grunt.autoDetect": "off",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "htmlcov/**": true,
+        "static/dist/**": true,
+        "static/_build/**": true,
+        ".vscode/": true,
+        "node_modules/": true,
+        "package-lock.json": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        "*.egg-info": true,
+        ".tox": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "editor.multiCursorModifier": "alt",
+    "search.useIgnoreFilesByDefault": true
+}
+
